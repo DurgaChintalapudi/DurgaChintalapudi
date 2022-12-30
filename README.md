@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DurgaChintalapudi a Graduate Student in Duke University
+- 👋 Hi, I’m @DurgaChintalapudi a Graduate Student at Duke University
 - 👀 I’m interested in DevOps and ML
 - 🌱 I’m currently learning Python and Machine Learning
 - 📫 chintalapudi.sridurga@gmail.com
